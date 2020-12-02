@@ -1,0 +1,23 @@
+{
+  "name": "fons-theme-hyper",
+  "version": "0.0.1",
+  "description": "Fons Theme for Hyper",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "bangjelkoski/fons-theme-hyper",
+  "author": {
+    "name": "Bojan Angjelkoski",
+    "email": "bangjelkoskii@gmail.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "hyperterm",
+    "hyperterm-theme",
+    "aurora",
+    "fons-theme-hyper"
+  ]
+}
